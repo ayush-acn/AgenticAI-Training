@@ -1,0 +1,67 @@
+# LangChain Core
+langgraph
+langchain
+langchain-community
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Azure AI Integration
+langchain-azure-ai
+langchain-openai
+azure-identity
+
+# Anthropic Integration
+langchain-anthropic
+
+# Ollama Integration
+langchain-ollama
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+langchain_cohere
+
+# Hugging Face Integration
+langchain-huggingface
+hf_xet
+transformers
+sentence_transformers
+huggingface-hub
+accelerate 
+torch
+# Environment Variable Management
+python-dotenv
+
+numpy
+scikit-learn
+pydantic
+# Enhanced Pydantic Support -for email validation
+pydantic[email]
+jupyter
+# Data Storage and Retrieval
+langchain-chroma
+chromadb
+faiss-cpu
+pypdf
+wikipedia
+tavily-python
+langchain-tavily
+firecrawl-py
+bs4
+protobuf
+grandalf
+yfinance
+requests
+pymupdf
+ddgs # duckduckgo_search has been renamed to ddgs
+streamlit
+langgraph-cli[inmem]
+langchain-mcp-adapters
+langgraph-checkpoint-sqlite
+langsmith
+#  SSL Certificate Management
+pip-system-certs
+yfinance
+sounddevice

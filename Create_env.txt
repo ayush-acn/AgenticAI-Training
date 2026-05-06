@@ -1,0 +1,22 @@
+pip install uv
+
+1. Initialize uv
+project folder >> uv init
+
+2. Create a virtual enviornment
+project folder >> uv venv --python 3.11.13
+
+3. Check the python version of your venv
+project folder >> python --version
+
+4. Activate the Virtual Environment On Windows (PowerShell):
+project folder >>.\.venv\Scripts\Activate
+
+5. Prepare requirements.txt
+Create a file called requirements.txt in your project folder with:
+
+6. Install the dependencies
+(project folder) uv add -r requirements.txt
+
+7. show the dependencies
+(project folder) pip list
