@@ -6,9 +6,10 @@ dist/
 wheels/
 *.egg-info
 
+uv.lock
+
 # Virtual environments
 .venv
-
 
 # API
 .env
