@@ -22,7 +22,7 @@ azure-identity
 # langchain-anthropic
 
 # Ollama Integration
-# langchain-ollama
+langchain-ollama
 
 # Google Gemini (PaLM) Integration
 # langchain-google-genai
@@ -30,13 +30,13 @@ azure-identity
 # langchain_cohere
 
 # Hugging Face Integration
-# langchain-huggingface
-# hf_xet
-# transformers
-# sentence_transformers
-# huggingface-hub
-# accelerate 
-# torch
+langchain-huggingface
+hf_xet
+transformers
+sentence_transformers
+huggingface-hub
+accelerate 
+torch
 
 # Enhanced Pydantic Support -for email validation
 pydantic[email]
@@ -69,3 +69,6 @@ langsmith
 pip-system-certs
 yfinance
 sounddevice
+
+# Langfuse - Tracing
+langfuse
