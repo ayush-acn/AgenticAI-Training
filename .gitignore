@@ -13,3 +13,6 @@ uv.lock
 
 # API
 .env
+
+# Database
+*-db/
