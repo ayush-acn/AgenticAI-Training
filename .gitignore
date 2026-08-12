@@ -16,3 +16,4 @@ uv.lock
 
 # Database
 *-db/
+example.db*
