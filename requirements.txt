@@ -18,6 +18,9 @@ langchain-azure-ai
 langchain-openai
 azure-identity
 
+# AWS integration
+langchain-aws
+
 # Anthropic Integration
 # langchain-anthropic
 
