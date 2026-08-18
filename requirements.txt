@@ -3,11 +3,14 @@ python-dotenv
 numpy
 scikit-learn
 pydantic
+pandas 
+matplotlib
 
 # LangChain Core
 langgraph
 langchain
 langchain-community
+langchain-experimental
 
 # OpenAI Integration
 langchain-openai
