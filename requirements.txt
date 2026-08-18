@@ -20,6 +20,7 @@ openai
 langchain-azure-ai
 langchain-openai
 azure-identity
+langgraph-supervisor
 
 # AWS integration
 langchain-aws
